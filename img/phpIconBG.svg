@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260">
+  <title>phpIconBG_1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect width="360" height="260" style="fill: #c9c93f"/>
+      <g>
+        <ellipse id="ellipse3860" cx="179.82" cy="133.68" rx="101.3" ry="50" style="fill: #6c7eb7"/>
+        <path id="p" d="M107,163.28,118.06,110h25.67c11.1.66,16.65,5.92,16.65,15.13a24,24,0,0,1-25,24.34H122.92l-2.78,13.82ZM125.7,139.6l3.47-19.74h9c4.86,0,8.33,2,8.33,5.92-.69,11.18-6.24,13.16-12.49,13.82H125.7Z" style="stroke: #fff;stroke-linejoin: round;stroke-width: 1.8186038732528687px"/>
+        <path id="h" d="M156.23,149.47l11.1-53.29h13.18L177.74,110h12.49c11.1.66,15.26,5.92,13.88,12.5l-4.86,27H185.37l4.86-24.34c.69-3.29.69-5.26-4.16-5.26H175.65l-6.24,29.61Z" style="stroke: #fff;stroke-linejoin: round;stroke-width: 1.8186038732528687px"/>
+        <g id="p2">
+          <path id="p-2" data-name="p" d="M199.94,163.28,211,110h25.67c11.1.66,16.65,5.92,16.65,15.13a24,24,0,0,1-25,24.34H215.9l-2.78,13.82Zm18.73-23.68,3.47-19.74h9c4.86,0,8.33,2,8.33,5.92-.69,11.18-6.24,13.16-12.49,13.82h-8.33Z" style="stroke: #fff;stroke-linejoin: round;stroke-width: 1.8186038732528687px"/>
+        </g>
+        <path id="p-3" data-name="p" d="M126.54,138.78l3.24-18.69h8.42c4.54,0,7.78,1.87,7.78,5.61-.65,10.59-5.83,12.46-11.66,13.08h-7.78Z" style="fill: #6c7eb7"/>
+        <path id="p-4" data-name="p" d="M219.48,138.78l3.24-18.69h8.42c4.54,0,7.78,1.87,7.78,5.61-.65,10.59-5.83,12.46-11.66,13.08h-7.78Z" style="fill: #6c7eb7"/>
+      </g>
+    </g>
+  </g>
+</svg>

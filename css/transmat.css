@@ -1,0 +1,142 @@
+
+/* Emblem */
+  .emblem_dash{
+    cursor: pointer;
+    stroke-dasharray: 125;
+    animation: dash 10s linear infinite;
+    stroke: #a9e6fc;
+    stroke-width: 2;
+    /*fill: white;*/
+    fill-opacity: 0.1;
+  }
+
+  .emblem_rev {
+    animation: dash 10s linear reverse infinite;
+    stroke: #037ffc;
+    stroke-width: 6;
+  }
+
+  .emblem_dash:hover {
+    fill-opacity: 1.0;
+  }
+
+  #emblem_slot {
+    stroke-dasharray: 105;
+    animation: dash 10s linear reverse infinite;
+    stroke-width: 2;
+  }
+
+/* Main Slot */
+  .main_slot, .main_slot_top {
+    /*   stroke-dasharray: 150;
+      stroke-dashoffset: 75;
+      animation: dash 10s linear reverse infinite;
+      stroke-width: 2; */
+    cursor: pointer;
+    fill: #39669d;
+    fill-opacity: 1;
+    stroke-width: 2;
+    stroke: #06aff9;
+
+  }
+
+
+  .main_slot:hover, .main_slot_top:hover {
+    fill-opacity: 1;
+
+
+    /*-webkit-transform: perspective(500px) rotateY(60deg); !*rotateZ(20deg);*!*/
+    /*transform: perspective(500px) rotateY(60deg); !*rotateZ(20deg);*!*/
+
+
+  }
+
+  .switcher {
+    cursor: pointer;
+    fill-opacity: 0.3;
+    stroke:#06AFF9;
+    stroke-width:2
+  }
+
+/* Bucket */
+  .bucket {
+    fill:white;
+    fill-opacity: 1;
+  }
+
+  .mask {
+    fill-opacity: 1;
+    fill:white;
+  }
+
+  .bucket_slot {
+    cursor: pointer;
+    fill: #292a2d;
+    fill-opacity: 1;
+    stroke: #06aff9;
+    stroke-width: 2px;
+  }
+
+  .bucket_slot:hover {
+    fill-opacity: 1;
+
+  }
+
+/* Inventory Button */
+  .inv_button, #inv_button_1, #inv_button_2, #inv_button_3 {
+    cursor: pointer;
+    fill: white;
+    fill-opacity: 0.1;
+    stroke-width: 2;
+    stroke: #06aff9;
+  }
+
+  .inv_button:hover {
+    fill-opacity: 0.3;
+  }
+
+/* Ghost */
+  #ghost {
+    cursor: pointer;
+
+    /*transform: skewX(-30deg) skewY(-20deg);*/
+    /*-webkit-transform: rotateX(30deg);*/
+    /*-webkit-transform-origin-y: 380px;*/
+    /*-webkit-transform-origin-z: 50px;*/
+    /*animation: float 3s ease-in-out;*/
+    /*animation-iteration-count: infinite;*/
+
+  }
+
+/*@keyframes float {*/
+  /*0% {*/
+        /*transform: translateY(0px)*/
+  /*}*/
+  /*50% {*/
+        /*transform: translateY(10px)*/
+  /*}*/
+  /*100% {*/
+        /*transform: translateY(0px)*/
+  /*}*/
+/*}*/
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 500;
+  }
+}
+
+.frame_rays {
+  pointer-events: none;
+}
+
+.left_panel {
+  /*transform-origin: (100px 100px);*/
+  perspective: 400px;
+
+}
+
+.main_slot_frame {
+  /*perspective: 500px;*/
+  /*transform: rotateY(40deg);*/
+}

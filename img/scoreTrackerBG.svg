@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260">
+  <title>scoreTrackerBG</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect width="360" height="260" style="fill: #bababa;opacity: 0.9500000000000001"/>
+      <text transform="translate(57 51.55)" style="font-size: 40px;fill: #fcfcfc;stroke: #0c0c0c;stroke-miterlimit: 10;font-family: Roboto-Medium, Roboto">Score<tspan x="103.38" y="0" style="letter-spacing: -0.029296875em"> </tspan><tspan x="112.17" y="0" style="letter-spacing: -0.03173828125em">T</tspan><tspan x="135.18" y="0" style="letter-spacing: -0.0146484375em">r</tspan><tspan x="148.65" y="0">acker</tspan></text>
+      <rect x="139" y="89.5" width="83" height="83" style="fill: #3a3e3f;stroke: #e5e5e5;stroke-miterlimit: 10;stroke-width: 10px"/>
+      <rect x="134" y="84.5" width="93.5" height="93" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <rect x="144" y="94.5" width="73" height="73" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <text transform="translate(170.08 143.74)" style="font-size: 40px;fill: #e5e5e5;font-family: Roboto-Bold, Roboto;font-weight: 700">3</text>
+      <rect x="82.75" y="110.25" width="41.5" height="41.5" style="fill: #e5e5e5;stroke: #3a3e3f;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <rect x="80.25" y="107.75" width="46.5" height="46.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <rect x="85.25" y="112.75" width="36.5" height="36.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <text transform="translate(98.29 137.37)" style="font-size: 20px;fill: #141414;font-family: Roboto-Bold, Roboto;font-weight: 700">2</text>
+      <rect x="26.75" y="110.25" width="41.5" height="41.5" style="fill: #e5e5e5;stroke: #3a3e3f;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <rect x="24.25" y="107.75" width="46.5" height="46.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <rect x="29.25" y="112.75" width="36.5" height="36.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <text transform="translate(42.29 137.37)" style="font-size: 20px;fill: #141414;font-family: Roboto-Bold, Roboto;font-weight: 700">1</text>
+      <rect x="293.75" y="109.25" width="41.5" height="41.5" style="fill: #e5e5e5;stroke: #3a3e3f;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <rect x="291.25" y="106.75" width="46.5" height="46.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <rect x="296.25" y="111.75" width="36.5" height="36.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <text transform="translate(309.29 136.37)" style="font-size: 20px;fill: #141414;font-family: Roboto-Bold, Roboto;font-weight: 700">5</text>
+      <rect x="237.75" y="109.25" width="41.5" height="41.5" style="fill: #e5e5e5;stroke: #3a3e3f;stroke-miterlimit: 10;stroke-width: 6px"/>
+      <rect x="235.25" y="106.75" width="46.5" height="46.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <rect x="240.25" y="111.75" width="36.5" height="36.5" style="fill: none;stroke: #232323;stroke-miterlimit: 10"/>
+      <text transform="translate(253.29 136.37)" style="font-size: 20px;fill: #141414;font-family: Roboto-Bold, Roboto;font-weight: 700">4</text>
+      <text transform="translate(20.77 240.55)" style="font-size: 28px;font-family: Roboto-Medium, Roboto"><tspan style="letter-spacing: -0.01025390625em">F</tspan><tspan x="15.09" y="0">or</tspan><tspan x="40.88" y="0" style="letter-spacing: -0.029296875em"> </tspan><tspan x="47.03" y="0">Teachers at Local </tspan><tspan x="277.14" y="0" style="letter-spacing: -0.080078125em">K</tspan><tspan x="292.55" y="0">-8</tspan></text>
+    </g>
+  </g>
+</svg>
